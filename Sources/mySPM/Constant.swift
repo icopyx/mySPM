@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct Constants {
-    public var myAge = 30
-    public var myBirth = 19800227
+struct Constants {
+    public static var myAge = 30
+    public static var myBirth = 19800227
 }
