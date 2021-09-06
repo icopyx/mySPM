@@ -7,6 +7,7 @@
 
 import Foundation
 
-func myName() -> String {
-    return "라이온"
+struct Constants {
+    public static var myAge = 30
+    public static var myBirth = 19800227
 }
